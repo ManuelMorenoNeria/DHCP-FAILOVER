@@ -3,4 +3,4 @@
 3. Deshabilitamos el network-manager "apt purgue network-manager"
 4. "sudo ip addr flush dev enp0s3" para poner la ip estática
 5. ponemos la siguiente configuracion en /etc/network/interfaces
-![img1](images/)
+![img1](images/interfaces-dhcp-failover.png)
