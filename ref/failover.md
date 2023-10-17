@@ -11,4 +11,4 @@ Reestablecemos el servicio cnecesaio con un “systemctl restart networking” y
 Comprobamos que tenemos acceso a internet desde el servidor haciendo ping a google por ejemplo
 
 - [SCRIPT DHCP PRIMARIO](/ref/script.md)
-- [SCRIPT DHCP PRIMARIO](/ref/script-secund.md)
+- [SCRIPT DHCP SECUNDARIO](/ref/script-secund.md)
