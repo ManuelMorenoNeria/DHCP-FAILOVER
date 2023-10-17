@@ -4,6 +4,6 @@
 4. "sudo ip addr flush dev enp0s3" para poner la ip estática
 5. ponemos la siguiente configuracion en /etc/network/interfaces
 ![img1](images/interfaces-dhcp-failover.png)
-![dhcpd.conf1](ref/images/dhdpd.conf1.png)
-![dhcpd.conf2](/ref/images/dhdpd.conf2.png)
-![dhcpd.conf3](/ref/images/dhdpd.conf3.png)
+![dhcpd.conf1](ref/images/dhcpd.conf1.png)
+![dhcpd.conf2](/ref/images/dhcpd.conf2.png)
+![dhcpd.conf3](/ref/images/dhcpd.conf3.png)
