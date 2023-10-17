@@ -10,3 +10,4 @@
 Reestablecemos el servicio cnecesaio con un “systemctl restart networking” y “systemctl restart isc-dhcp-server”
 Comprobamos que tenemos acceso a internet desde el servidor haciendo ping a google por ejemplo
 
+- [SCRIPT](/ref/script.md)
