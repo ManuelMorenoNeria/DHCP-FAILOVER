@@ -7,3 +7,6 @@
 ![dhcpd.conf1](images/dhcpd.conf1.png)
 ![dhcpd.conf2](images/dhcpd.conf2.png)
 ![dhcpd.conf3](images/dhcpd.conf3.png)
+Reestablecemos el servicio cnecesaio con un “systemctl restart networking” y “systemctl restart isc-dhcp-server”
+Comprobamos que tenemos acceso a internet desde el servidor haciendo ping a google por ejemplo
+![interfaces](images/interfaces)
